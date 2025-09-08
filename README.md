@@ -20,21 +20,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliBerkeErenler&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliBerkeErenler&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBerkeErenler&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 👀 Profile Views
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AliBerkeErenler&label=Profile%20views&color=0e75b6&style=flat" alt="AliBerkeErenler" />
