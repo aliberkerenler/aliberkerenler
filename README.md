@@ -53,14 +53,12 @@
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aliberkerenler&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aliberkerenler&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ali Berke's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliberkerenler&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-  ⭐ <i>Feel free to explore my repositories and thanks for visiting my profile!</i> ⭐
+  ⭐ <i>Feel free to explore my repositories and reach out for collaboration!</i> ⭐
 </p>
