@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Student | Backend & System Programming Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aliberkerenler"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/berke-erenler"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:aliberkerenler@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=aliberkerenler&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -53,12 +53,14 @@
 
 ### 📊 GitHub Activity
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aliberkerenler&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aliberkerenler&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ali Berke's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliberkerenler&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-  ⭐ <i>Feel free to explore my repositories and Thanks for visiting my profile!</i> ⭐
+  ⭐ <i>Feel free to explore my repositories and thanks for visiting my profile!</i> ⭐
 </p>
