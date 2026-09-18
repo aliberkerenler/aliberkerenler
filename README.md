@@ -53,8 +53,8 @@
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats-1-nine-lime.vercel.app/api?username=aliberkerenler&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ali Berke's GitHub Stats" />
-  <img src="https://github-readme-stats-1-nine-lime.vercel.app/api/top-langs/?username=aliberkerenler&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-1-nine-lime.vercel.app/api?username=aliberkerenler&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" alt="Ali Berke's GitHub Stats" />
+  <img src="https://github-readme-stats-1-nine-lime.vercel.app/api/top-langs/?username=aliberkerenler&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
 </p>
 
 ---
